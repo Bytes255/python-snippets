@@ -5,7 +5,7 @@ from utils import class_inheritance as animals,\
 # From converters module
 # It's a separated py file that contains useful code
 # Modules are very useful 
-# because with them you can keep your project organized :)
+# because with them you can keep your project organized
 
 # unit converters
 print(f"My dog weights 10kg. In pounds it's {cv.kg_to_lbs(10)}lbs")
